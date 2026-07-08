@@ -17,7 +17,7 @@
 pkg update && upgrade
 pkg install python
 pkg install git
-git clone https://github.com/YOUR_USERNAME/Neer-Protection-Toolkit.git
+git clone https://github.com/Hackerneer/Neer-Protection-Toolkit.git
 cd Neer-Protection-Toolkit
 pip install -r requirements.txt
 ```
@@ -30,16 +30,15 @@ Select the HTML file you want to protect and it will generate neerprotected_[fil
 · Extractor Output: neer_example_com_source.html
 · Protector Output: neerprotected_index.html
 
-📺 Tutorial Video
-
-Watch the complete tutorial on my YouTube Channel:
-Neer Security Labs - @hackerneer
-
 🛑 Disclaimer
 
 This tool is intended for basic code protection and educational purposes. Advanced reverse engineers can still decode client-side code. Do not rely on this for highly sensitive backend credentials.
 
 📞 Support & Community
+
+Tutorial Video
+
+📺 Watch the complete tutorial on my YouTube Channel:
 
 · 📺 YouTube: https://youtube.com/@hackerneer
 ---

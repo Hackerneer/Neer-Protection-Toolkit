@@ -18,11 +18,17 @@
 ```bash
 pkg update && upgrade
 ```
+```
 pkg install python
-
+```
+```
 pkg install git
+```
+```
 git clone https://github.com/Hackerneer/Neer-Protection-Toolkit.git
 cd Neer-Protection-Toolkit
+```
+```
 pip install -r requirements.txt
 ```
 

@@ -22,6 +22,13 @@ pkg update && upgrade
 pkg install python
 ```
 ```
+pip install requests
+echo "rich" > requirements.txt
+echo "pyfiglet" >> requirements.txt
+pip install -r requirements.txt
+
+```
+```
 pkg install git
 ```
 ```

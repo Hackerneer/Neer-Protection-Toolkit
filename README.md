@@ -16,7 +16,7 @@
 
 ## 🛠️ Prerequisites
 ```bash
-pkg update && upgrade
+pkg update && pkg upgrade
 ```
 ```
 pkg install python
